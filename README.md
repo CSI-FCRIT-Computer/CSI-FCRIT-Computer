@@ -1,4 +1,4 @@
-<h1 align="center">CSI COMPUTER FCRIT</h1>
+<h1 align="center">✨ CSI COMPUTER FCRIT ✨</h1>
 <h3 align="center">Welcome to the official page of CSI Computer FCRIT</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=csi-fcrit-computer&label=Profile%20views&color=0e75b6&style=flat" alt="csi-fcrit-computer" /> </p>
